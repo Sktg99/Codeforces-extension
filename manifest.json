@@ -1,8 +1,8 @@
 {
-	"name": "CF static site enchancer",
-	"version": "2.0.0",
-	"description": "Enhances the static codeforces websites with additional features so that you get a complete environment during contests",
-	"manifest_version": 3,
+	"name": "Extended codeforces extension",
+	"version": "1.0.0",
+	"description": "Helps to break through the steadiness of the original static sites of codeforces",
+	"manifest_version": 1,
 	"icons": {
 		"48": "static/icon48.png",
 		"64": "static/icon64.png",
